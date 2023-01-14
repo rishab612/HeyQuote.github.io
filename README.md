@@ -1,1 +1,1 @@
-# HeyQuote.github.io
+# hey-quote.github.io
